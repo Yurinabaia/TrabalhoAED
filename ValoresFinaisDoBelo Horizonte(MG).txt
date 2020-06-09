@@ -1,0 +1,7 @@
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;154
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;31
+Raiane;38;Belo Horizonte (MG);PV;P;13
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;10
+Palmital;42;Belo Horizonte (MG);PT;P;9
+Flamengo ;40;Belo Horizonte (MG);PT;P;6
+Maranhao;39;Belo Horizonte (MG);PV;P;5

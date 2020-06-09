@@ -1,0 +1,228 @@
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;1
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;2
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;3
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;4
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;5
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;6
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;7
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;8
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;9
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;10
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;11
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;12
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;13
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;14
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;15
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;16
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;17
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;18
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;19
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;20
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;21
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;22
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;23
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;24
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;25
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;26
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;27
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;28
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;29
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;30
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;31
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;32
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;33
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;34
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;35
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;36
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;37
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;38
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;39
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;40
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;41
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;42
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;43
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;44
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;45
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;46
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;47
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;48
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;49
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;50
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;51
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;52
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;53
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;54
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;55
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;56
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;57
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;58
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;59
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;60
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;61
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;62
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;63
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;64
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;65
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;66
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;67
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;68
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;69
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;70
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;71
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;72
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;73
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;74
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;75
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;76
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;77
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;78
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;79
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;80
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;81
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;82
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;83
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;84
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;85
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;86
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;87
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;88
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;89
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;90
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;91
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;92
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;93
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;94
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;95
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;96
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;97
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;98
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;99
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;100
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;101
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;102
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;103
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;104
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;105
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;106
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;107
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;108
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;109
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;110
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;111
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;112
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;113
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;114
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;115
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;116
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;117
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;118
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;119
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;120
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;121
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;122
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;123
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;124
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;125
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;126
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;127
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;128
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;129
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;130
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;131
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;132
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;133
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;134
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;135
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;136
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;137
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;138
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;139
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;140
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;141
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;142
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;143
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;144
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;145
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;146
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;147
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;148
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;149
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;150
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;151
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;152
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;153
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P;154
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;1
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;2
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;3
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;4
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;5
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;6
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;7
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;8
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;9
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;10
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;11
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;12
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;13
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;14
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;15
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;16
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;17
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;18
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;19
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;20
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;21
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;22
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;23
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;24
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;25
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;26
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;27
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;28
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;29
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;30
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P;31
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;1
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;2
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;3
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;4
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;5
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;6
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;7
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;8
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;9
+Sandro Flanela;55;Belo Horizonte (MG);PT;P;10
+Palmital;42;Belo Horizonte (MG);PT;P;1
+Palmital;42;Belo Horizonte (MG);PT;P;2
+Palmital;42;Belo Horizonte (MG);PT;P;3
+Palmital;42;Belo Horizonte (MG);PT;P;4
+Palmital;42;Belo Horizonte (MG);PT;P;5
+Palmital;42;Belo Horizonte (MG);PT;P;6
+Palmital;42;Belo Horizonte (MG);PT;P;7
+Palmital;42;Belo Horizonte (MG);PT;P;8
+Palmital;42;Belo Horizonte (MG);PT;P;9
+Flamengo ;40;Belo Horizonte (MG);PT;P;1
+Flamengo ;40;Belo Horizonte (MG);PT;P;2
+Flamengo ;40;Belo Horizonte (MG);PT;P;3
+Flamengo ;40;Belo Horizonte (MG);PT;P;4
+Flamengo ;40;Belo Horizonte (MG);PT;P;5
+Flamengo ;40;Belo Horizonte (MG);PT;P;6
+Maranhao;39;Belo Horizonte (MG);PV;P;1
+Maranhao;39;Belo Horizonte (MG);PV;P;2
+Maranhao;39;Belo Horizonte (MG);PV;P;3
+Maranhao;39;Belo Horizonte (MG);PV;P;4
+Maranhao;39;Belo Horizonte (MG);PV;P;5
+Raiane;38;Belo Horizonte (MG);PV;P;1
+Raiane;38;Belo Horizonte (MG);PV;P;2
+Raiane;38;Belo Horizonte (MG);PV;P;3
+Raiane;38;Belo Horizonte (MG);PV;P;4
+Raiane;38;Belo Horizonte (MG);PV;P;5
+Raiane;38;Belo Horizonte (MG);PV;P;6
+Raiane;38;Belo Horizonte (MG);PV;P;7
+Raiane;38;Belo Horizonte (MG);PV;P;8
+Raiane;38;Belo Horizonte (MG);PV;P;9
+Raiane;38;Belo Horizonte (MG);PV;P;10
+Raiane;38;Belo Horizonte (MG);PV;P;11
+Raiane;38;Belo Horizonte (MG);PV;P;12
+Raiane;38;Belo Horizonte (MG);PV;P;13

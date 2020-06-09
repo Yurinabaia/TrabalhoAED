@@ -1,0 +1,21 @@
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Rui Barbosa;11324;Belo Horizonte (MG);PV;V
+Tom Jobim;11820;Belo Horizonte (MG);PV;V
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Cecilia Meireles;13435;Belo Horizonte (MG);PT;V
+Clarice Lispector;13098;Belo Horizonte (MG);PT;V
+Tomas Gonzaga;11;Santos Dumont (MG);PV;P
+Marilia de Dirceu;11871;Santos Dumont (MG);PV;V
+Tiradentes;11012;Santos Dumont (MG);PV;V
+Fernando Pessoa;13;Santos Dumont (MG);PT;P
+Carlos Drumond de Andrade;13560;Santos Dumont (MG);PT;V
+Tarsila do Amaral;13298;Santos Dumont (MG);PT;V
+Luiz;12345;Belo Horizonte (MG);PT;V
+Fernando;51854;Belo Horizonte (MG);PT;V
+Pereira;12235;Belo Horizonte (MG);PT;V
+Luiz Pereira Araujo;78945;Belo Horizonte (MG);PT;V
+Sandro Flanela;55;Belo Horizonte (MG);PT;P
+Palmital;42;Belo Horizonte (MG);PT;P
+Flamengo ;40;Belo Horizonte (MG);PT;P
+Maranhao;39;Belo Horizonte (MG);PV;P
+Raiane;38;Belo Horizonte (MG);PV;P

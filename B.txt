@@ -1,0 +1,3 @@
+﻿inicio
+BeloHorizonte;MG;2512070;60
+SantosDumont;MG;50000;12

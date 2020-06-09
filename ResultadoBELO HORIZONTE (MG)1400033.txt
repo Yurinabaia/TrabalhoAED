@@ -1,0 +1,42 @@
+Sandro Flanela;55;Belo Horizonte (MG);PT;P
+Palmital;42;Belo Horizonte (MG);PT;P
+Palmital;42;Belo Horizonte (MG);PT;P
+Palmital;42;Belo Horizonte (MG);PT;P
+Flamengo ;40;Belo Horizonte (MG);PT;P
+Maranhao;39;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Vinicius de Morais;13;Belo Horizonte (MG);PT;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P
+Monteiro Lobato;11;Belo Horizonte (MG);PV;P

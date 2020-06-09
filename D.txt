@@ -1,0 +1,15 @@
+Vinicius de Morais;11452890;Belo Horizonte (MG);013;0052
+Mauricio de Sousa;90120098;Belo Horizonte (MG);013;0052
+Monteiro Lobato;25145517;Belo Horizonte (MG);013;0050
+Tatiana Belink;09812399;Belo Horizonte (MG);013;0050
+Ana Maria Machado;19182830;Belo Horizonte (MG);140;0033
+Bia Bedran;09218876;Santos Dumont (MG);001;0072
+Ziraldo;98776509;Santos Dumont (MG);001;0072
+Christian;15154151;BeLO hORIZONTE (MG);125;1214
+Felipe;15151515;Belo Horizonte (MG);123;1234
+LAUIZ JUNIOR;15115151;bELO HORIZONTE (MG);123;1234
+Pedro Henrique Costa;51848484;Belo HoriZonte (MG);123;1254
+Luiza Pereiras;51184818;Belo Horizonte (MG);159;1789
+Samuel Felipe;12345678;Belo Horizonte (MG);987;6543
+Samuel Pereira;12345677;Belo Horizonte (MG);456;1234
+Pedro Henrique;12345676;Belo Horizonte (MG);789;4561

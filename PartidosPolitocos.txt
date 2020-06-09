@@ -1,0 +1,2 @@
+Democratas;DM
+Republicanos;RP
